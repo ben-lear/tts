@@ -46,11 +46,8 @@
           <b>CHANGELOG</b>
           (Since last <i>Beta</i>)
           <!--(Since last <i>Stable</i>)-->
-          - Add: Aqua Droids
-          - Add: ARF Troopers
-          - Fix: Crab Droid base size
-          - Fix: A Beautiful Friendship typo
-          - Fix: Nanny Programming typo
+          - Add: New Card Format
+          - Fix: json Discrepancies
         </Text>
       </VerticalLayout>
     </VerticalScrollView>
