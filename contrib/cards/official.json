@@ -1189,6 +1189,16 @@
         "points": 5
       },
       {
+        "name": "Turbo-Charge",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/16761979492775816091/37108458441EBB0A6D7090B98BA9B0C3DC2AD80B/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "unit": ["General Grievous", "TSMEU-6 Wheel Bikes"]
+          }
+        }
+      },
+      {
         "name": "Din's Flame Projector",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/13750229648005754282/BBA7B66BB64E77DD6485518A99475DE0DC684BE8/",
         "points": 5,
