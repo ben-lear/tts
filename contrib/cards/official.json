@@ -1527,6 +1527,59 @@
     ],
     "Heavy Weapon": [
       {
+        "name": "Agent Kallus",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/11243613263901997875/0DD9BAD82731CF9B82AA13471D5EC164B8583545/",
+        "mini": {
+          "bundle": "https://steamusercontent-a.akamaihd.net/ugc/2446089105227059084/0EB4EE32683338BC754DA5EC1F613ABA71048E90/"
+        },
+        "leader": true,
+        "points": 28,
+        "restrictions": {
+          "include": {
+            "faction": ["Empire"],
+            "rank": ["Corps", "Special Forces"]
+          }
+        }
+      },
+      {
+        "name": "Cassian Andor",
+        "displayName": "Cassian Andor (Sniper Config)",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/9591158490068968132/FEEFE73E35F1BFA0C632F973EA56454D377007FC/",
+        "flip": {
+          "name": "Cassian Andor",
+          "displayName": "Cassian Andor (Black Ops)",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/11525894432535452100/E903693ACFB3CFA2C08225AC65BBF46C06F293F6/"
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/773996263556990389/C38E9CAD7E5BA5496E1A211CA799E9ACBAC51D00/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/770611701143191344/5CAA4F0CE9A3FBE89A81560221ADCDDB5A801CC3/"
+        },
+        "leader": true,
+        "points": 25,
+        "restrictions": {
+          "include": {
+            "faction": ["Rebel"],
+            "rank": ["Corps"]
+          }
+        }
+      },
+      {
+        "name": "Kraken",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/15597539132515958482/63F091887EF5669192CD96A978FDAA0A1B9BD50D/",
+        "mini": {
+          "bundle": "http://cloud-3.steamusercontent.com/ugc/1619598366706113202/449F19DA94D42DAD0F0B4D0B77A8E9AD45C320E5/",
+          "secondary": "http://cloud-3.steamusercontent.com/ugc/1619598366706441991/04B29BB48A98AF8D79FC1414548496BAD49CCB28/"
+        },
+        "leader": true,
+        "points": 30,
+        "restrictions": {
+          "include": {
+            "faction": ["Separatist"],
+            "rank": ["Corps"]
+          }
+        }
+      },
+      {
         "name": "RPS-6 ARF Trooper",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12717002306739299639/3A8542FCC457C05E120FB9E59AD8BA4D1551DFE6/",
         "mini": {
@@ -2613,6 +2666,22 @@
       }
     ],
     "Squad Leader": [
+      {
+        "name": "Clone Captain Rex",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/17732060543639041010/F75242323BF212E3ABCCC41199991C8FBFAEBF68/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/776232727456806720/869654FC3B0590BFFF2E1845C3CFA9169838EBF9/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/776232727456806858/52327997163A5113DF9E11B85F9DA8B6B970012C/"
+        },
+        "points": 38,
+        "leader": true,
+        "restrictions": {
+          "include": {
+            "faction": ["Republic"],
+            "rank": ["Corps"]
+          }
+        }
+      },
       {
         "name": "Jedi Guardian",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/11522429422550427771/2AE47A46390BAC96C6EAE879130F4F01D738E37D/",
