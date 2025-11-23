@@ -4538,6 +4538,11 @@
         "pip": 1
       },
       {
+        "name": "Sneak Attack",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/17800273845434794252/84425184A9FA3237F85342B84FD168824FBF90C8/",
+        "pip": 1
+      },
+      {
         "name": "Air Support",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/10804385134030778/90E5CEF9833FED1C5F926FB8878BDBCD5B5099F6/",
         "pip": 2
@@ -4563,6 +4568,11 @@
         "pip": 2
       },
       {
+        "name": "Recon Division",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/17814277548406010305/67FBF2832F88C0A2B3923023FA53418900EC7C92/",
+        "pip": 2
+      },
+      {
         "name": "Attack Of the Clones",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/10804385134033797/3AA33B36A7B9EAAC8444A6CAC176F2130EE30E6C/",
         "pip": 3
@@ -4575,6 +4585,11 @@
       {
         "name": "Daring Defense",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12871643868680759199/5CC33092968E7DE16416344B01D7BC76211DB23E/",
+        "pip": 3
+      },
+      {
+        "name": "Flexible Strategy",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/15462092410085872515/FF4DD4B2D64809CF0A86A3288A8D500DD7E30240/",
         "pip": 3
       },
       {
