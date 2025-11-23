@@ -4687,6 +4687,17 @@
           "image": "https://steamusercontent-a.akamaihd.net/ugc/18385343105541227063/7F990BB73C8675734EB02873157F392EA265DC20/",
           "type": "vertical",
           "additionalObjects": ["Objective Token", "Objective Token"]
+        },
+        {
+          "name": "Supply Run",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/9519163714205143198/44DD261B633320C5FE3A406F76B56FD73EDC2E76/",
+          "type": "vertical",
+          "additionalObjects": [
+            "Objective Token",
+            "Objective Token",
+            "Objective Token",
+            "Objective Token"
+          ]
         }
       ],
       "deployment": [
@@ -4729,10 +4740,10 @@
             ["b", "b", "b", "bss", " ", " ", " ", " ", "bs", "b", "b", "b"]
           ],
           "additionalObjects": [
-            "Close the Pocket Map",
             "POI Token",
             "POI Token",
-            "POI Token"
+            "POI Token",
+            "Close the Pocket Map"
           ]
         },
         {
@@ -4774,11 +4785,11 @@
             [" ", " ", "b", "b", "b", "b", "b", "b", "b", "b", " ", " "]
           ],
           "additionalObjects": [
-            "Bunker Assault Map",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token"
+            "POI Token",
+            "Bunker Assault Map"
           ]
         },
         {
@@ -4820,11 +4831,11 @@
             [" ", " ", " ", "b", "b", "b", "b", "b", "b", "b", "b", "b"]
           ],
           "additionalObjects": [
-            "Breakthrough Map",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token"
+            "POI Token",
+            "Breakthrough Map"
           ]
         },
         {
@@ -4866,11 +4877,11 @@
             [" ", " ", "b", "b", "b", "b", "b", "b", "b", "b", " ", " "]
           ],
           "additionalObjects": [
-            "Intercept Signals Map",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token"
+            "POI Token",
+            "Intercept Signals Map"
           ]
         },
         {
@@ -4912,13 +4923,13 @@
             [" ", " ", " ", "b", "b", "b", "b", "b", "b", "b", "b", "b"]
           ],
           "additionalObjects": [
-            "Recover the Research Map",
             "POI Token",
             "POI Token",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token"
+            "POI Token",
+            "Recover the Research Map"
           ]
         },
         {
@@ -4960,12 +4971,32 @@
             [" ", " ", " ", "b", "b", "b", "b", "b", "b", "b", "b", "b"]
           ],
           "additionalObjects": [
-            "Shifting Priorities Map",
             "POI Token",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token"
+            "POI Token",
+            "Shifting Priorities Map"
+          ]
+        },
+        {
+          "name": "Outflank",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/13495770785016686863/572E6718AF1D92854622E20A2C7BBF8E8EAF4793/",
+          "type": "vertical",
+          "zone": [
+            [" ", " ", " ", "r", "r", "r", "r", "r", "r", " ", " ", "r"],
+            [" ", " ", " ", "rh", "rh", "rh", "rh", "rh", "rh", " ", " ", "r"],
+            ["b", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", "r"],
+            ["b", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", "r"],
+            ["b", " ", " ", "bh", "bh", "bh", "bh", "bh", "bh", " ", " ", " "],
+            ["b", " ", " ", "b", "b", "b", "b", "b", "b", " ", " ", " "]
+          ],
+          "additionalObjects": [
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "Outflank Map"
           ]
         }
       ],
@@ -5005,6 +5036,26 @@
           "image": "https://steamusercontent-a.akamaihd.net/ugc/16276132125547808705/8A61415CDD0F2E20417F6D8371858B206FA0A775/",
           "type": "vertical",
           "additionalObjects": ["Objective Token"]
+        },
+        {
+          "name": "Black Ops",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/17788491822893443475/FCEB325A1C045662381E47E751482700521D2219/",
+          "type": "vertical"
+        },
+        {
+          "name": "Command Override",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/12943860816298787957/AC216DBF0F8880EC568FCAA34B5AC347187723A8/",
+          "type": "vertical"
+        },
+        {
+          "name": "Coordinated Strike",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/15369793059824781345/5FA5B970C2370F879FFAF0650E8F7FD361F06F91/",
+          "type": "vertical"
+        },
+        {
+          "name": "No Time to Lose",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/11496058962921126665/041D2E72354726A4E39C6A2CCA2DA6C0E66946B2/",
+          "type": "vertical"
         }
       ]
     },
@@ -5714,6 +5765,12 @@
     "Shifting Priorities Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12429316638634710380/005746FFEA77696118B237B650C7628F9089B946/",
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052974/0D4D7ECABE727D484B8ECDF44DBA664BBF7E609D/"
+      }
+    },
+    "Outflank": {
+      "card": {
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/15283876349976838373/93B3D53B8AB0DCF7FE15F606E81FD962A738B455/",
         "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052974/0D4D7ECABE727D484B8ECDF44DBA664BBF7E609D/"
       }
     }
