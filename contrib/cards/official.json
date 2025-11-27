@@ -2120,7 +2120,8 @@
         "name": "Mortar Clone Trooper",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384857192/CF4DF5C1BB0C410B79E2F7EE0B658D2C9F4B8DE3/",
         "mini": {
-          "bundle": "http://cloud-3.steamusercontent.com/ugc/2174736446809185328/4A6DA42CDB70EF979D5B8B675CEFA5459FA60D4E/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/17111559006544179444/7D68555838D7B0D758FED0E3791ED418B90A6DD7/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/9727272902330348247/0B0C390FEF4295D2877C3FD619D77C165F71537B/"
         },
         "points": 20,
         "restrictions": {
@@ -2161,8 +2162,8 @@
         "name": "RPS-6 Clone Trooper",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384857930/2CEB66226D92B8B803D3654A7F59977A0D0B6BA2/",
         "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785603568/BB31C6873BD81E6B5B6F6D41B907DA95421063F0/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764785565294/2AA6ABC62F52DCD30C56D5DED210C35E7B4FD526/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/10674439379183912978/1891910DC13EACBBDD75B96F220C5826CFF127FA/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/13318126355031753710/BA185DB103CF16D1BFAC9209F348A43498AAFE04/"
         },
         "points": 21,
         "restrictions": {
@@ -2821,8 +2822,8 @@
         "name": "Clone Marksman",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/16972794900197879773/6B1534C765EB2036E2D189C0F8F49AA5F3BDF920/",
         "mini": {
-          "bundle": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
-          "secondary": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
         },
         "points": 14,
         "restrictions": {
