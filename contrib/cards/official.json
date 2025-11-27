@@ -2125,7 +2125,7 @@
         "points": 20,
         "restrictions": {
           "include": {
-            "unit": ["Clone Trooper Infantry"]
+            "unit": ["Clone Trooper Infantry", "Clone Trooper Marksmen"]
           }
         }
       },
@@ -2167,7 +2167,7 @@
         "points": 21,
         "restrictions": {
           "include": {
-            "unit": ["Clone Trooper Infantry"]
+            "unit": ["Clone Trooper Infantry", "Clone Trooper Marksmen"]
           }
         }
       },
@@ -2817,6 +2817,52 @@
       }
     ],
     "Personnel": [
+      {
+        "name": "Clone Marksman",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/16972794900197879773/6B1534C765EB2036E2D189C0F8F49AA5F3BDF920/",
+        "mini": {
+          "bundle": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
+          "secondary": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
+        },
+        "points": 14,
+        "restrictions": {
+          "include": {
+            "unit": ["Clone Trooper Marksmen"]
+          }
+        }
+      },
+      {
+        "name": "Clone Trooper Marksmen Squad",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/18125099481279293755/B6F721DB564585BE62A893E382B128E12CD6592C/",
+        "minis": [
+          {
+            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
+            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
+          },
+          {
+            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
+            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
+          },
+          {
+            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
+            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
+          },
+          {
+            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
+            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
+          },
+          {
+            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
+            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
+          }
+        ],
+        "points": 53,
+        "restrictions": {
+          "include": {
+            "unit": ["Clone Trooper Marksmen"]
+          }
+        }
+      },
       {
         "name": "Fleet Trooper Squad",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384856618/9DED8502636167A62F6D2AEEE5AE8B004D61F3CF/",
