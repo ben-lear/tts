@@ -5369,105 +5369,107 @@
     "skirmish": {
       "objective": [
         {
-          "name": "Breach",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279492/85477A894623DDA23BC182995DAF396671A0C007/",
-          "type": "vertical"
-        },
-        {
-          "name": "Control",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279456/10F29ECE1579A06D7DC564A6480F2BE27CC6EF04/",
-          "type": "vertical",
-          "additionalObjects": ["Objective Token"]
-        },
-        {
-          "name": "Elimination",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279416/6160501F308751CB9266FF991FF62E1409058C4B/",
-          "type": "vertical"
-        },
-        {
-          "name": "Pivotal Positions",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279382/6E006F31C9D5200AAA94392D94C2AE78EE4D73C7/",
+          "name": "Surface Scan",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/16343945853969639984/24ABD9DF34B74E343BD4F79D9461385D76C0CD88/",
           "type": "vertical",
           "additionalObjects": [
             "Objective Token",
             "Objective Token",
+            "Objective Token",
             "Objective Token"
           ]
+        },
+        {
+          "name": "Recon Mission",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/18385343105541227063/7F990BB73C8675734EB02873157F392EA265DC20/",
+          "type": "vertical",
+          "additionalObjects": ["Objective Token", "Objective Token"]
+        },
+        {
+          "name": "Bring Them to Heel",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/16790576095549234351/278EA3877E97AD155ADA4602D42DF023B7CEB78B/",
+          "type": "vertical"
         }
       ],
       "deployment": [
         {
-          "name": "Battle Lines",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279345/8A96884057E13BF488E89177C2B9CCB0ADDDFFE0/",
+          "name": "Close the Pocket",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/17314598212129638590/62EB33594611850FEBF0567D57ABA8CFB8077091/",
           "type": "vertical",
           "zone": [
-            [" ", " ", " ", "r", "r", "r", "r", "r", "r", " ", " ", " "],
+            [" ", " ", " ", "r", "rs", " ", " ", "rss", "r", " ", " ", " "],
+            [" ", " ", " ", "rh", "rc", " ", " ", "rcc", "rh", " ", " ", " "],
             [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
             [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", "b", "b", "b", "b", "b", "b", " ", " ", " "]
+            [" ", " ", " ", "bh", "bcc", " ", " ", "bc", "bh", " ", " ", " "],
+            [" ", " ", " ", "b", "bss", " ", " ", "bs", "b", " ", " ", " "]
+          ],
+          "additionalObjects": [
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "Close the Pocket Map (Recon)"
           ]
         },
         {
-          "name": "Faceoff",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279307/F41700690107CC7398BD5B95CDED30B041538517/",
-          "type": "vertical",
-          "zone": []
-        },
-        {
-          "name": "Flanking Positions",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279273/0D6B1CF6762E532AA4C0D039C2CC96F0E25A419F/",
+          "name": "Bunker Assault",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/16995954044322736468/0D0086DE04A57350DF77F62FDEC94F5148B7C4D5/",
           "type": "vertical",
           "zone": [
-            [" ", " ", " ", "r", "r", "r", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", "r", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", "r", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", " ", " ", " ", " ", " ", "b", " ", " ", " "],
-            [" ", " ", " ", " ", " ", " ", " ", " ", "b", " ", " ", " "],
-            [" ", " ", " ", " ", " ", " ", "b", "b", "b", " ", " ", " "]
+            [" ", " ", " ", " ", "r", "r", "r", "r", " ", " ", " ", " "],
+            [" ", " ", " ", " ", "rh", "rh", "rh", "rh", " ", " ", " ", " "],
+            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", " ", "bh", "bh", "bh", "bh", " ", " ", " ", " "],
+            [" ", " ", " ", " ", "b", "b", "b", "b", " ", " ", " ", " "]
+          ],
+          "additionalObjects": [
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "Bunker Assault Map (Recon)"
           ]
         },
         {
-          "name": "Meeting Engagement",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279232/4F4C1C54E5DCE9FD1E9C46BB75379AEF60E2DAFC/",
+          "name": "Intercept Signals",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/13661793580985225615/BB706B264CE5C71456271DE54E765EC27EA6F786/",
           "type": "vertical",
           "zone": [
-            [" ", " ", " ", "r", "r", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", "r", "r", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", " ", "r", "r", "r", "r", " ", " ", " ", " "],
+            [" ", " ", " ", " ", "rh", "rh", "rh", "rh", " ", " ", " ", " "],
             [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
             [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", " ", " ", " ", " ", "b", "b", " ", " ", " "],
-            [" ", " ", " ", " ", " ", " ", " ", "b", "b", " ", " ", " "]
+            [" ", " ", " ", " ", "bh", "bh", "bh", "bh", " ", " ", " ", " "],
+            [" ", " ", " ", " ", "b", "b", "b", "b", " ", " ", " ", " "]
+          ],
+          "additionalObjects": [
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "Intercept Signals Map (Recon)"
           ]
         }
       ],
       "condition": [
         {
-          "name": "War Weary",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279193/052C3637BE4F31FAA691235E186CC73B1CE928F7/",
-          "type": "vertical"
-        },
-        {
-          "name": "Improvised Defenses",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279155/3F72099B06947F23231D8B2228D25C63E01FED92/",
+          "name": "Advanced Intel",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/13272907091260444770/243391B61F192F53AA7CF0360D3F846C7A7A0A97/",
           "type": "vertical",
-          "additionalObjects": [
-            "Barricade",
-            "Barricade",
-            "Barricade",
-            "Barricade"
-          ]
+          "additionalObjects": ["Condition Token"]
         },
         {
-          "name": "Dawn",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279122/1952ADAEF00EAAF039C3D0C160AABF3BD4F7B0E1/",
-          "type": "vertical"
+          "name": "Fortified Position",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/16927846453234643948/97D5A7F0E4C9D3DAB14C3754AC3A484C15CE3567/",
+          "type": "vertical",
+          "additionalObjects": ["Barricade", "Barricade", "Barricade"]
         },
         {
-          "name": "Clear Conditions",
-          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279082/F2116A3FBAB46DAD85EE43AB1CBF9497C567B2A8/",
-          "type": "vertical"
+          "name": "Cunning Deployment",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/14925552919945327142/06659E9120D6246C6048165ECDE9F5F5AEA7A5EB/",
+          "type": "vertical",
+          "additionalObjects": ["Dodge Token", "Dodge Token", "Dodge Token"]
         }
       ]
     },
@@ -5780,46 +5782,44 @@
       "scripted": "poi-token"
     },
     "Breakthrough Map": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/16613435332891317382/334404D722726ECE56866DBBF444836E8AC2F3A3/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
-      }
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/16613435332891317382/334404D722726ECE56866DBBF444836E8AC2F3A3/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
     },
     "Bunker Assault Map": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12304553798171400164/69AB4EB2BA8A39D91996852580DCA1AB783913C4/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051483/82F1D1EAA55C5794FD0301E5FADB5EEA3DAEFE49/"
-      }
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/12304553798171400164/69AB4EB2BA8A39D91996852580DCA1AB783913C4/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051483/82F1D1EAA55C5794FD0301E5FADB5EEA3DAEFE49/"
     },
     "Close the Pocket Map": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/14769093936620373412/BC975CBADAEBD9AA231D83443BE9EDB59FF4308A/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051694/8B05A05A5B24115F84B0A13F6FD392BB5C00E527/"
-      }
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/14769093936620373412/BC975CBADAEBD9AA231D83443BE9EDB59FF4308A/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051694/8B05A05A5B24115F84B0A13F6FD392BB5C00E527/"
     },
-    "Intercept Signals": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12020228019721678387/E635199A7837BC89D679A0D848FB4EA7D7677239/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052240/E4DFCE250EAB2459C05A7C73ED2C47B78DB5D467/"
-      }
+    "Intercept Signals Map": {
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/12020228019721678387/E635199A7837BC89D679A0D848FB4EA7D7677239/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052240/E4DFCE250EAB2459C05A7C73ED2C47B78DB5D467/"
     },
     "Recover the Research Map": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15862931608322641380/4C8D35B94855B94A233EBF9D01FB0D1A0EEE3B32/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052886/30E5BFA96EBC5AFA4197AE40882EC3B576420F51/"
-      }
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/15862931608322641380/4C8D35B94855B94A233EBF9D01FB0D1A0EEE3B32/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052886/30E5BFA96EBC5AFA4197AE40882EC3B576420F51/"
     },
     "Shifting Priorities Map": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12429316638634710380/005746FFEA77696118B237B650C7628F9089B946/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052974/0D4D7ECABE727D484B8ECDF44DBA664BBF7E609D/"
-      }
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/12429316638634710380/005746FFEA77696118B237B650C7628F9089B946/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052974/0D4D7ECABE727D484B8ECDF44DBA664BBF7E609D/"
     },
     "Outflank Map": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15283876349976838373/93B3D53B8AB0DCF7FE15F606E81FD962A738B455/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052974/0D4D7ECABE727D484B8ECDF44DBA664BBF7E609D/"
-      }
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/15283876349976838373/93B3D53B8AB0DCF7FE15F606E81FD962A738B455/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052974/0D4D7ECABE727D484B8ECDF44DBA664BBF7E609D/"
+    },
+    "Bunker Assault Map (Recon)": {
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/15532220751502518416/FA34BE3822D18F2C6D04F8987569B0D4F6A1F9D3/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051483/82F1D1EAA55C5794FD0301E5FADB5EEA3DAEFE49/"
+    },
+    "Close the Pocket Map (Recon)": {
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/17088281433024932061/E9983676D51E1EE76B7152BD13CF83C794F02C81/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051694/8B05A05A5B24115F84B0A13F6FD392BB5C00E527/"
+    },
+    "Intercept Signals Map (Recon)": {
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/13979927353592007130/EA574041CFDFF4712CEC9A8E18F5A8DDE7A18216/",
+      "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052240/E4DFCE250EAB2459C05A7C73ED2C47B78DB5D467/"
     }
   }
 }
