@@ -845,6 +845,21 @@
         }
       ],
       "required": ["Gideon Hask", "Del Meeko"]
+    },
+    {
+      "name": "Imperial Probe Droid",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/17742743731740446795/0CCBB41ECD7F6A3AB0477DD280E75F07DDF26BE1/",
+      "size": "small",
+      "type": "Droid Trooper",
+      "points": 35,
+      "speed": 1,
+      "upgrades": {},
+      "minis": [
+        {
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/14972533488140369423/D390682F502B9999AE930DA6A78817DDE5D97027/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/15762532285823663057/2254B8B0FBA723C3F840CDB6DB639404B0DA9DB1/"
+        }
+      ]
     }
   ],
   "Support": [
