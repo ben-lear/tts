@@ -10,116 +10,6 @@
   "upgrades": {
     "Armament": [
       {
-        "name": "Heavy Arm Cannon",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/9491942057538415219/C158C02B7135405F2EC1E5B21BC2FB09876E21F8/",
-        "points": 20,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Electrostaff",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/18437389315593431740/A0F53051C57B1167C6C2A631755BD8D4F0AFCB9B/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Twin Lightsabers",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/10644823733316041135/289BDD492BB3E295276192F60944E251986DAAAF/",
-        "points": 0,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight Genral", "Jedi Knight"]
-          }
-        }
-      },
-      {
-        "name": "Lightsaber",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/9358476422022162198/D59B90B25355B223E8D91DF23E233DFCB591B3F7/",
-        "points": 0,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight Genral", "Jedi Knight"]
-          }
-        }
-      },
-      {
-        "name": "Double-Bladed Lightsaber",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/10386689818644119201/B5A0C4C02D76641FFCF96A105E27DFE48C9DEDA9/",
-        "points": 0,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight Genral", "Jedi Knight"]
-          }
-        }
-      },
-      {
-        "name": "Heavy Blaster Pistol (Rebel)",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/16982319690732285379/8FA680F434D4EF30BB0DCDB8835BABFB8C90B16F/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Rebel Officer", "Rebel Agent"]
-          }
-        }
-      },
-      {
-        "name": "Repeating Blaster",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/13484211657005252288/0AFB1BBC7DA74BA6713EDCA6869C28E2522C7128/",
-        "points": 25,
-        "restrictions": {
-          "include": {
-            "unit": ["Rebel Officer", "Rebel Agent"]
-          }
-        }
-      },
-      {
-        "name": "Vibro Axe",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12824619755788191989/83D29D8C052D145897BAEF171074D066C4CB143A/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Rebel Officer", "Rebel Agent"]
-          }
-        }
-      },
-      {
-        "name": "Heavy Blaster Pistol (Empire)",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/16148048905111619924/4146F9FBD1CE36B93A82B0403DB3E956510A7271/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Officer", "Imperial Agent"]
-          }
-        }
-      },
-      {
-        "name": "Stun Baton",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/11788115204668483271/6494041D37500BD80CE8CB640CC058D4CDB7C5DD/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Officer", "Imperial Agent"]
-          }
-        }
-      },
-      {
-        "name": "Z-6 Riot Baton",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/11921155978538693026/3426025D9984B223902084BA7DA742C27DEC0D63/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Officer", "Imperial Agent"]
-          }
-        }
-      },
-      {
         "name": "A-180 Rifle Config",
         "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568137807/208481F3DC8BE18ED10D2A17F12F35869213235C/",
         "flip": {
@@ -730,154 +620,12 @@
         }
       },
       {
-        "name": "Unstable Astromech",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081140090490/9587E43834D0812EFD6F19F1D387911709687C2C/",
+        "name": "Unstable R5 Astromech",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/10804385148637860/93B0991DD63C226FA855DA5D2320F2372792BD7C/",
         "points": 6,
         "restrictions": {
           "include": {
             "unit": ["A-A5 Speeder Truck", "X-34 Landspeeder"]
-          }
-        }
-      }
-    ],
-    "Doctrine": [
-      {
-        "name": "Tyrannical Taskmaster",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/11179625379357754651/6A6C0FBE6E379AADAD32AB5E1EEDD59125FDBDC0/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Seek and Destroy",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17580473790403836506/B4B9F6EF1F0D342A2D3A36ACD74406D4ADDC29EC/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Jedi Negotiator",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12404142936298962239/F91DB0372D9BC3F6375019DCBAC806AFCFD88530/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight General", "Jedi Knight"]
-          }
-        }
-      },
-      {
-        "name": "Jedi Guardian (Doctrine)",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15780679593757483600/E5FCF725258967339166A41BB3EFCAFF5A8FA911/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight General", "Jedi Knight"]
-          }
-        }
-      },
-      {
-        "name": "Jedi Consular",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/14045064181052874010/F764E634FEE5F97CA8990AE773485CD7A5B25F91/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight General", "Jedi Knight"]
-          }
-        }
-      },
-      {
-        "name": "General of the Republic",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/10716212871886551955/9B6A910846F658641A40BA8503F6F5E5726515AE/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight General"]
-          }
-        }
-      },
-      {
-        "name": "Frontline Commander",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/13795280766311941821/E1F25E09B07E96AF40A5AB1EBC6D353477D17818/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Rebel Officer"]
-          }
-        }
-      },
-      {
-        "name": "Proven Tactician",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12310742349592853996/C01E26E40190FD57EC4DAD2AA97246928ACD3AB9/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "unit": ["Rebel Officer"]
-          }
-        }
-      },
-      {
-        "name": "Unseen Saboteur",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/9486677778211309065/4926AB5ED5359DDFF98DF725743208B24BF3D425/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Rebel Officer", "Rebel Agent"]
-          }
-        }
-      },
-      {
-        "name": "Reluctant Hero",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/14517747575335986516/9CFE4F6BACFB4FE6AE4E98760A78A28A4CCA3DA3/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "unit": ["Rebel Agent"]
-          }
-        }
-      },
-      {
-        "name": "Academy Trained",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/16850031235199219220/E0AF83714D0C21470AEADEAE922B744A4809F51E/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Officer"]
-          }
-        }
-      },
-      {
-        "name": "Defend in Depth",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/9547305841950911718/8C9ED29234DB39BFA21F6DAFDAC4A20333FADF20/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Officer", "Imperial Agent"]
-          }
-        }
-      },
-      {
-        "name": "Platoon Commander",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17549371703531105166/44CA0864E78F8F5FD1D0917AE70DD377D3589ED6/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Agent"]
-          }
-        }
-      },
-      {
-        "name": "Tip of the Spear",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17600634879211462904/B23606C9DBE5F481F8658C6DFD51D89F78FE4915/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Officer", "Imperial Agent"]
           }
         }
       }
@@ -922,7 +670,7 @@
       },
       {
         "name": "Clairvoyance",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17762213452364786547/6DD557A53CAF65B23939E5AA33F8C54D04F6CF59/",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/17229509976995559718/02821314DBA25F4938A6E51ED6F1BF2F79993A49/",
         "points": 10
       },
       {
@@ -1013,66 +761,6 @@
       }
     ],
     "Gear": [
-      {
-        "name": "Mobility Upgrade",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/14801533200544358775/281DF96809B1A4DD8B0CC08C1654B7EC8C85DAF3/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Expanded Databanks",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/13958223172222009397/28473616CB558D08D6E9AF0C063B186BE3E10D3A/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Combat Armor (Rebel)",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15266337223503378500/082B5B18AF7333C2AB7633999E1817CDD0AD0E49/",
-        "points": 15,
-        "restrictions": {
-          "include": {
-            "unit": ["Rebel Officer", "Rebel Agent"]
-          }
-        }
-      },
-      {
-        "name": "Combat Armor (Empire)",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/9459937079559114318/45AE4B9ECEF86C715B206E46191FCEA63F42C5AD/",
-        "points": 15,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Officer", "Imperial Agent"]
-          }
-        }
-      },
-      {
-        "name": "Command and Control Uplink",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15196731974512810043/1569FC7D3A5E5F3EE46158972C1106C75978397C/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Officer", "Imperial Agent"]
-          }
-        }
-      },
-      {
-        "name": "Seeker Droid",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/13020895085647234538/2CB16D45585A8A87F577DA64528555B3754295AA/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Imperial Officer", "Imperial Agent"]
-          }
-        }
-      },
       {
         "name": "Katarn Pattern Armor",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/10804385135343697/9294A833C65D6D3721327C68A057F71D8D920AD7/",
@@ -1189,16 +877,6 @@
         "points": 5
       },
       {
-        "name": "Turbo-Charge",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/16761979492775816091/37108458441EBB0A6D7090B98BA9B0C3DC2AD80B/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["General Grievous", "TSMEU-6 Wheel Bikes"]
-          }
-        }
-      },
-      {
         "name": "Din's Flame Projector",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/13750229648005754282/BBA7B66BB64E77DD6485518A99475DE0DC684BE8/",
         "points": 5,
@@ -1261,16 +939,6 @@
         "name": "Impact Grenades",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/13262048397259590169/3F4068C180970A83C3676C515AADEDC561B243CA/",
         "points": 3
-      },
-      {
-        "name": "Thermal Detonator",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/10343160233994321230/2CBA8174A989A97FB336EF0B04A7A2C36A8967F7/",
-        "points": 3,
-        "restrictions": {
-          "include": {
-            "unit": ["Rebel Officer", "Rebel Agent"]
-          }
-        }
       },
       {
         "name": "Smoke Grenades",
@@ -1527,64 +1195,11 @@
     ],
     "Heavy Weapon": [
       {
-        "name": "Agent Kallus",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/11243613263901997875/0DD9BAD82731CF9B82AA13471D5EC164B8583545/",
-        "mini": {
-          "bundle": "https://steamusercontent-a.akamaihd.net/ugc/2446089105227059084/0EB4EE32683338BC754DA5EC1F613ABA71048E90/"
-        },
-        "leader": true,
-        "points": 28,
-        "restrictions": {
-          "include": {
-            "faction": ["Empire"],
-            "rank": ["Corps", "Special Forces"]
-          }
-        }
-      },
-      {
-        "name": "Cassian Andor",
-        "displayName": "Cassian Andor (Sniper Config)",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/9591158490068968132/FEEFE73E35F1BFA0C632F973EA56454D377007FC/",
-        "flip": {
-          "name": "Cassian Andor",
-          "displayName": "Cassian Andor (Black Ops)",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/11525894432535452100/E903693ACFB3CFA2C08225AC65BBF46C06F293F6/"
-        },
-        "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/773996263556990389/C38E9CAD7E5BA5496E1A211CA799E9ACBAC51D00/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/770611701143191344/5CAA4F0CE9A3FBE89A81560221ADCDDB5A801CC3/"
-        },
-        "leader": true,
-        "points": 25,
-        "restrictions": {
-          "include": {
-            "faction": ["Rebel"],
-            "rank": ["Corps"]
-          }
-        }
-      },
-      {
-        "name": "Kraken",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15597539132515958482/63F091887EF5669192CD96A978FDAA0A1B9BD50D/",
-        "mini": {
-          "bundle": "http://cloud-3.steamusercontent.com/ugc/1619598366706113202/449F19DA94D42DAD0F0B4D0B77A8E9AD45C320E5/",
-          "secondary": "http://cloud-3.steamusercontent.com/ugc/1619598366706441991/04B29BB48A98AF8D79FC1414548496BAD49CCB28/"
-        },
-        "leader": true,
-        "points": 30,
-        "restrictions": {
-          "include": {
-            "faction": ["Separatist"],
-            "rank": ["Corps"]
-          }
-        }
-      },
-      {
         "name": "RPS-6 ARF Trooper",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12717002306739299639/3A8542FCC457C05E120FB9E59AD8BA4D1551DFE6/",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/59215140638617630/9AB204944DB662D2D15FC2FA5E50F02138AD1FD6/",
         "mini": {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/18331124358283445848/2990EA694AB3CAD4DE7B96F0D060A76E1274A22E/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/15002029139098242363/D4C51BFAB720064048B328F9379048D0A651F951/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16428815149645590/1B9C028584B5A7DCD488AE1E9C57D33A1B93C92E/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/16428815149646251/ADB16A6BF3CADD49D0237A4AB51FB4D7AF0AB521/"
         },
         "points": 24,
         "restrictions": {
@@ -2120,13 +1735,12 @@
         "name": "Mortar Clone Trooper",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384857192/CF4DF5C1BB0C410B79E2F7EE0B658D2C9F4B8DE3/",
         "mini": {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/17111559006544179444/7D68555838D7B0D758FED0E3791ED418B90A6DD7/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/9727272902330348247/0B0C390FEF4295D2877C3FD619D77C165F71537B/"
+          "bundle": "http://cloud-3.steamusercontent.com/ugc/2174736446809185328/4A6DA42CDB70EF979D5B8B675CEFA5459FA60D4E/"
         },
         "points": 20,
         "restrictions": {
           "include": {
-            "unit": ["Clone Trooper Infantry", "Clone Trooper Marksmen"]
+            "unit": ["Clone Trooper Infantry"]
           }
         }
       },
@@ -2162,13 +1776,13 @@
         "name": "RPS-6 Clone Trooper",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384857930/2CEB66226D92B8B803D3654A7F59977A0D0B6BA2/",
         "mini": {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/10674439379183912978/1891910DC13EACBBDD75B96F220C5826CFF127FA/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/13318126355031753710/BA185DB103CF16D1BFAC9209F348A43498AAFE04/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785603568/BB31C6873BD81E6B5B6F6D41B907DA95421063F0/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764785565294/2AA6ABC62F52DCD30C56D5DED210C35E7B4FD526/"
         },
         "points": 21,
         "restrictions": {
           "include": {
-            "unit": ["Clone Trooper Infantry", "Clone Trooper Marksmen"]
+            "unit": ["Clone Trooper Infantry"]
           }
         }
       },
@@ -2228,7 +1842,38 @@
           }
         }
       },
-
+      {
+        "name": "Fleet Trooper Squad",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384856618/9DED8502636167A62F6D2AEEE5AE8B004D61F3CF/",
+        "minis": [
+          {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540670667/CB316B23D59F28C5EF22E94A43280D49DFFDD6AC/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540670760/47DF3E87B3F71E8EA42A89ECFE96E4FB3990D7ED/"
+          },
+          {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540671182/A605D9D0DB356DC71473F5C9DF27DE1CADB4F320/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540671278/9B94D359A61113F72EEB0435D70A1291431D737A/"
+          },
+          {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540670978/0642E99CB4E8CABA1AA10389F2387A1C70D9322D/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540670760/47DF3E87B3F71E8EA42A89ECFE96E4FB3990D7ED/"
+          },
+          {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540671182/A605D9D0DB356DC71473F5C9DF27DE1CADB4F320/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540671278/9B94D359A61113F72EEB0435D70A1291431D737A/"
+          },
+          {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540670978/0642E99CB4E8CABA1AA10389F2387A1C70D9322D/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540670760/47DF3E87B3F71E8EA42A89ECFE96E4FB3990D7ED/"
+          }
+        ],
+        "points": 45,
+        "restrictions": {
+          "include": {
+            "unit": ["Fleet Troopers"]
+          }
+        }
+      },
       {
         "name": "Sonic Charge Saboteur",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/10804385140103507/922568C5FAACC25FCE80574BE5459CB511022824/",
@@ -2524,6 +2169,62 @@
         }
       },
       {
+        "name": "Ewok Skirmisher Squad",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384856338/3857B7DC883DF754409E8F4262459CC574DE5630/",
+        "minis": [
+          {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867129196/6EED0C8AAF8F50751EE4206471D1273B6C0F4B5A/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
+          },
+          {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867129252/FC0A6247B6AB21A99919659C1F9069186C6D82ED/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
+          },
+          {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128356/9E8C70962F9D5BF853BD9310F2BB1E1A3F80DB5D/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
+          },
+          {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128445/EBB56734DB6527B3566C317F6F4F0E84471D6776/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
+          }
+        ],
+        "points": 28,
+        "restrictions": {
+          "include": {
+            "unit": ["Ewok Skirmishers"]
+          }
+        }
+      },
+      {
+        "name": "Ewok Slinger Squad",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384856396/086DF1555A9EC9B78C10A72F1154F9954670E9FA/",
+        "minis": [
+          {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128565/24D88975D67E46B5FA9294EB6DCC146912D61F2F/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
+          },
+          {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128627/19AC5B05F3A355226EE783B9F239B3B285EA077A/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
+          },
+          {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128715/CB52DA6C0FC1DF3511C2A2D62CB2B3A13A9D4F8F/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
+          },
+          {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128778/1D5BCB551375F1A7988C434F0B52E18434BB4747/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
+          }
+        ],
+        "points": 23,
+        "restrictions": {
+          "include": {
+            "unit": ["Ewok Slingers"]
+          }
+        }
+      },
+      {
         "name": "Force Pike Warrior",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081139984742/4CBAEA0926D770481377C8C3556D0F4F55D403F4/",
         "flip": {
@@ -2655,8 +2356,8 @@
         "name": "Rebel Marksman",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081140087495/6457AE581E595160FCFCADFED8B8B6F19F25A68E/",
         "mini": {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/14917315826433699939/D2E4947C6515F43CE0A46297F5BEDE9E79BE1580/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/12051855690087531381/898E4ACA597BDB2F53DFD6DB96937EDB87E983F3/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680570051/845658287FF6EADD0F2B31B94ABC4899A09475EE/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680570231/D122EECC159E02264D024421EB7767BEA8E70F21/"
         },
         "points": 28,
         "restrictions": {
@@ -2668,24 +2369,8 @@
     ],
     "Squad Leader": [
       {
-        "name": "Clone Captain Rex",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17837568269244781354/A462DDBE46166711CD3E69DD3F6F6947D25AEF3F/",
-        "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/776232727456806720/869654FC3B0590BFFF2E1845C3CFA9169838EBF9/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/776232727456806858/52327997163A5113DF9E11B85F9DA8B6B970012C/"
-        },
-        "points": 38,
-        "leader": true,
-        "restrictions": {
-          "include": {
-            "faction": ["Republic"],
-            "rank": ["Corps"]
-          }
-        }
-      },
-      {
         "name": "Jedi Guardian",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/11522429422550427771/2AE47A46390BAC96C6EAE879130F4F01D738E37D/",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/10803117186606641/15A4615ADD75A243A356670FC9AC6CAF270796F3/",
         "mini": {
           "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16426912929621400/CC4D94EDC24D933D7333F5A35308606846A9B550/",
           "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/16426912929621469/4B200440B54994D37A5B3667E04769CD92DE4F32/"
@@ -2702,7 +2387,7 @@
         "name": "Ahsoka Tano, Jedi Padawan",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/59217531459831255/8A122988056B15729D1EBAB3F459B8AF5AA13113/",
         "mini": {
-          "bundle": "https://steamusercontent-a.akamaihd.net/ugc/15416532958990284151/F41C3DBAFCDCA9717ED5F6A53E6E46F1BFABA467/"
+          "bundle": "https://steamusercontent-a.akamaihd.net/ugc/16432616714054298/93B766A9FA311E199C2FCAF5BA29137B4FA12A9F/"
         },
         "points": 35,
         "leader": true,
@@ -2819,150 +2504,16 @@
     ],
     "Personnel": [
       {
-        "name": "Clone Marksman",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/16972794900197879773/6B1534C765EB2036E2D189C0F8F49AA5F3BDF920/",
-        "mini": {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
-        },
-        "points": 14,
-        "restrictions": {
-          "include": {
-            "unit": ["Clone Trooper Marksmen"]
-          }
-        }
-      },
-      {
-        "name": "Clone Trooper Marksmen Squad",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/18125099481279293755/B6F721DB564585BE62A893E382B128E12CD6592C/",
-        "minis": [
-          {
-            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
-            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
-          },
-          {
-            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
-            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
-          },
-          {
-            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
-            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
-          },
-          {
-            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
-            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
-          },
-          {
-            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15225529675747905291/99FAF0DF1F4C90B3BE029846EF98D28ED4AC4DE7/",
-            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14173133310269661753/77DC4409C0694CEE7BD5968DBC36B6AD9F582A90/"
-          }
-        ],
-        "points": 53,
-        "restrictions": {
-          "include": {
-            "unit": ["Clone Trooper Marksmen"]
-          }
-        }
-      },
-      {
-        "name": "Fleet Trooper Squad",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384856618/9DED8502636167A62F6D2AEEE5AE8B004D61F3CF/",
-        "minis": [
-          {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540670667/CB316B23D59F28C5EF22E94A43280D49DFFDD6AC/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540670760/47DF3E87B3F71E8EA42A89ECFE96E4FB3990D7ED/"
-          },
-          {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540671182/A605D9D0DB356DC71473F5C9DF27DE1CADB4F320/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540671278/9B94D359A61113F72EEB0435D70A1291431D737A/"
-          },
-          {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540670978/0642E99CB4E8CABA1AA10389F2387A1C70D9322D/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540670760/47DF3E87B3F71E8EA42A89ECFE96E4FB3990D7ED/"
-          },
-          {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540671182/A605D9D0DB356DC71473F5C9DF27DE1CADB4F320/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540671278/9B94D359A61113F72EEB0435D70A1291431D737A/"
-          },
-          {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540670978/0642E99CB4E8CABA1AA10389F2387A1C70D9322D/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540670760/47DF3E87B3F71E8EA42A89ECFE96E4FB3990D7ED/"
-          }
-        ],
-        "points": 45,
-        "restrictions": {
-          "include": {
-            "unit": ["Fleet Troopers"]
-          }
-        }
-      },
-      {
-        "name": "Ewok Skirmisher Squad",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384856338/3857B7DC883DF754409E8F4262459CC574DE5630/",
-        "minis": [
-          {
-            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867129196/6EED0C8AAF8F50751EE4206471D1273B6C0F4B5A/",
-            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
-          },
-          {
-            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867129252/FC0A6247B6AB21A99919659C1F9069186C6D82ED/",
-            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
-          },
-          {
-            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128356/9E8C70962F9D5BF853BD9310F2BB1E1A3F80DB5D/",
-            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
-          },
-          {
-            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128445/EBB56734DB6527B3566C317F6F4F0E84471D6776/",
-            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
-          }
-        ],
-        "points": 28,
-        "restrictions": {
-          "include": {
-            "unit": ["Ewok Skirmishers"]
-          }
-        }
-      },
-      {
-        "name": "Ewok Slinger Squad",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384856396/086DF1555A9EC9B78C10A72F1154F9954670E9FA/",
-        "minis": [
-          {
-            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128565/24D88975D67E46B5FA9294EB6DCC146912D61F2F/",
-            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
-          },
-          {
-            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128627/19AC5B05F3A355226EE783B9F239B3B285EA077A/",
-            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
-          },
-          {
-            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128715/CB52DA6C0FC1DF3511C2A2D62CB2B3A13A9D4F8F/",
-            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
-          },
-          {
-            "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867128778/1D5BCB551375F1A7988C434F0B52E18434BB4747/",
-            "secondary": "http://cloud-3.steamusercontent.com/ugc/2008089545867129049/686925E47D218727E1C79A25E0F44FC80FAEE43F/"
-          }
-        ],
-        "points": 23,
-        "restrictions": {
-          "include": {
-            "unit": ["Ewok Slingers"]
-          }
-        }
-      },
-      {
         "name": "ARF Trooper Duo",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/16167615007606416168/E2F191BF04EE9A6AD8B59DFCC57739F95C3A5A12/",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/13916350432597405132/5D3AFD658FC9FC30314A98DF8C5F0A7910B4ADF2/",
         "minis": [
           {
-            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15046496907723985678/0514FC22E31D8910E01718468BEFFCB9BA3194C6/",
-            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/12877259894682446248/93094B312D6F2496D2E48F7FE517C5F0DD491681/"
+            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16428815149932608/94AB8C15D97E81FF8040E81BC91F79A7105FF4B4/",
+            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/16428815149932637/F5D29AC3162A9D47B5440E5A3E3399FC12A594BE/"
           },
           {
-            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/9734857441935358829/6150A3CA473416F71D7EB7051646D2023F14020E/",
-            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/9280725738904038875/E1587121F1A6BCD633A23FC945AC345D14F5B434/"
+            "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16428815149932871/EE8DF333D45ED841E9C31625FB4A9385C16B2F49/",
+            "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/16428815149933386/736E0CCF2ADE31D6A9F6BE172B20AEB5420B815E/"
           }
         ],
         "points": 26,
@@ -3313,10 +2864,10 @@
         "name": "Astromech",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081140081721/9FBE2EBFF8A54C66DAC860A08E68AF4D108A09A2/",
         "mini": {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16305759943865684242/77B93C06FD78FD56DFEF6334B61B0259F73B67DF/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/13443645039465980995/BC7642774F1435BAD9CAD6928034EF614890B14D/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680571476/57CF310CEE5CCDFE2F0769BE7BAF97A6A4104035/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680571745/E93CBD4D8EBD90588639BCA658F36E208A58E465/"
         },
-        "points": 8,
+        "points": 9,
         "restrictions": {
           "include": {
             "unit": ["Rebel Sleeper Cell"]
@@ -3324,7 +2875,7 @@
         }
       },
       {
-        "name": "Astromech Droid",
+        "name": "R5 Astromech Droid",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081140081288/0419F2D2F5D687DC9B927FE7C39AF89D52FD4ABD/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/949599512594428341/4AC5A309D701979A4B3E94725BC1E8745C598BCE/",
@@ -4071,76 +3622,6 @@
     ],
     "Programming": [
       {
-        "name": "Targeting Relay",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/11634664574744568665/B578CB9BF748B7349BAF07EF4B1841C5E1D445D4/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Strategic Programming",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/11094092177132530342/D0F8105E9FF6D04728309489EE9558CC86D8EDC2/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Sliced Comms",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17858708550552855236/316113FEFD98D8C4826D93B02D2D09D3B9C11CC0/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Overclock",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12143743451364645580/C6563F5B44D5AC8DB193565DEF597852029875F8/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Optimized Task Flow",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/14129452596280621348/B010A4D814CAE8B8F8A33F4E9AB9422D65A86E55/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Limiter Override",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/13512858426535330136/8290169A628B42E5E66C46F8969F4961E7AF3C1A/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
-        "name": "Enhanced Combat Subroutines",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15110625432095673145/ED7ACBEB4F3A180E7FAF5BF603F9B49FFC3F9B04/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Super Tactical Command Droid"]
-          }
-        }
-      },
-      {
         "name": "Attack Protocols",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/10231463032862954270/5569EEFD92CA844450DCFDF7BC652B4DDC055DD5/",
         "points": 8,
@@ -4202,63 +3683,7 @@
         }
       }
     ],
-    "Squad Leader": [
-      {
-        "name": "Jedi Guardian",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/59215140638617630/9AB204944DB662D2D15FC2FA5E50F02138AD1FD6/",
-        "mini": {
-          "bundle": "https://steamusercontent-a.akamaihd.net/ugc/16426912929621400/CC4D94EDC24D933D7333F5A35308606846A9B550/",
-          "secondary": "https://steamusercontent-a.akamaihd.net/ugc/16426912929621469/4B200440B54994D37A5B3667E04769CD92DE4F32/"
-        },
-        "points": 22,
-        "restrictions": {
-          "include": {
-            "faction": ["Republic"]
-          }
-        }
-      }
-    ],
     "Training": [
-      {
-        "name": "Jedi Training, Force Adept",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12390960585643083301/04DD725AE236156E74D8235599206979F3670D57/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight General", "Jedi Knight"]
-          }
-        }
-      },
-      {
-        "name": "Jedi Training, Master Duelist",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/12298679851052031233/62AED632F56B111FDA191A3C05D73471B9F0F26E/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight General", "Jedi Knight"]
-          }
-        }
-      },
-      {
-        "name": "Jedi Training, Peacekeeping Mission",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/13804491818651130043/F6BA846589F1234072E07F5027CD221358C8A442/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight General", "Jedi Knight"]
-          }
-        }
-      },
-      {
-        "name": "Jedi Training, Tactical Acumen",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/10646964347794251662/A94EDAF7E7A862EC466E05FD8B880947F4328BE3/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Jedi Knight General", "Jedi Knight"]
-          }
-        }
-      },
       {
         "name": "Defensive Stance",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/10394379497446642242/A484E8DE817DC612497E99A36F6D33FBA8E423C9/",
@@ -4345,7 +3770,15 @@
         "points": 5,
         "restrictions": {
           "include": {
-            "type": ["Repulsor Vehicle"]
+            "unit": [
+              "STAP Riders",
+              "Swoop Bike Riders",
+              "X-34 Landspeeder",
+              "T-47 Airspeeder",
+              "74-Z Speeder Bikes",
+              "Raddaugh Gnasp Fluttercraft",
+              "BARC Speeder"
+            ]
           }
         }
       },
@@ -4451,7 +3884,7 @@
     "Generic": [
       {
         "name": "Ambush",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/11854788151162080590/F8156890B5410050033E6A67015DB0E0DCE7FA95/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564037146/9E4C2F5453A9016854F388BB078666B71AC794B6/",
         "pip": 1
       },
       {
@@ -4461,7 +3894,7 @@
       },
       {
         "name": "Push",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17909236182554732778/41F641B354B5819E8B6D231B7D2593E29DF87BE7/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564034819/0E3D77E869D24AD638EB438F92577F44368487D3/",
         "pip": 2
       },
       {
@@ -4471,7 +3904,7 @@
       },
       {
         "name": "Assault",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17765277411252241548/FA0AA2F53A229D6F470578728A59AE31FF626C3A/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564034224/40364C1DDCF973A233C4A8F7AD43734067014C06/",
         "pip": 3
       },
       {
@@ -4481,7 +3914,7 @@
       },
       {
         "name": "Standing Orders",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15678505752415930382/55DE6AD796E3FE3FDDE5B2D11CAC8087389D5C71/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564032760/662157DB1D462926F585301B5D6003D6B8172F14/",
         "pip": 4
       }
     ],
@@ -4601,11 +4034,6 @@
         "pip": 1
       },
       {
-        "name": "Sneak Attack",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17800273845434794252/84425184A9FA3237F85342B84FD168824FBF90C8/",
-        "pip": 1
-      },
-      {
         "name": "Air Support",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/10804385134030778/90E5CEF9833FED1C5F926FB8878BDBCD5B5099F6/",
         "pip": 2
@@ -4631,11 +4059,6 @@
         "pip": 2
       },
       {
-        "name": "Recon Division",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17814277548406010305/67FBF2832F88C0A2B3923023FA53418900EC7C92/",
-        "pip": 2
-      },
-      {
         "name": "Attack Of the Clones",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/10804385134033797/3AA33B36A7B9EAAC8444A6CAC176F2130EE30E6C/",
         "pip": 3
@@ -4648,11 +4071,6 @@
       {
         "name": "Daring Defense",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12871643868680759199/5CC33092968E7DE16416344B01D7BC76211DB23E/",
-        "pip": 3
-      },
-      {
-        "name": "Flexible Strategy",
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15462092410085872515/FF4DD4B2D64809CF0A86A3288A8D500DD7E30240/",
         "pip": 3
       },
       {
@@ -4750,17 +4168,6 @@
           "image": "https://steamusercontent-a.akamaihd.net/ugc/18385343105541227063/7F990BB73C8675734EB02873157F392EA265DC20/",
           "type": "vertical",
           "additionalObjects": ["Objective Token", "Objective Token"]
-        },
-        {
-          "name": "Supply Run",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/9519163714205143198/44DD261B633320C5FE3A406F76B56FD73EDC2E76/",
-          "type": "vertical",
-          "additionalObjects": [
-            "Objective Token",
-            "Objective Token",
-            "Objective Token",
-            "Objective Token"
-          ]
         }
       ],
       "deployment": [
@@ -4803,10 +4210,10 @@
             ["b", "b", "b", "bss", " ", " ", " ", " ", "bs", "b", "b", "b"]
           ],
           "additionalObjects": [
+            "Close the Pocket Map",
             "POI Token",
             "POI Token",
-            "POI Token",
-            "Close the Pocket Map"
+            "POI Token"
           ]
         },
         {
@@ -4848,11 +4255,11 @@
             [" ", " ", "b", "b", "b", "b", "b", "b", "b", "b", " ", " "]
           ],
           "additionalObjects": [
+            "Bunker Assault Map",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token",
-            "Bunker Assault Map"
+            "POI Token"
           ]
         },
         {
@@ -4894,11 +4301,11 @@
             [" ", " ", " ", "b", "b", "b", "b", "b", "b", "b", "b", "b"]
           ],
           "additionalObjects": [
+            "Breakthrough Map",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token",
-            "Breakthrough Map"
+            "POI Token"
           ]
         },
         {
@@ -4940,11 +4347,11 @@
             [" ", " ", "b", "b", "b", "b", "b", "b", "b", "b", " ", " "]
           ],
           "additionalObjects": [
+            "Intercept Signals Map",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token",
-            "Intercept Signals Map"
+            "POI Token"
           ]
         },
         {
@@ -4986,13 +4393,13 @@
             [" ", " ", " ", "b", "b", "b", "b", "b", "b", "b", "b", "b"]
           ],
           "additionalObjects": [
+            "Recover the Research Map",
             "POI Token",
             "POI Token",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token",
-            "Recover the Research Map"
+            "POI Token"
           ]
         },
         {
@@ -5034,32 +4441,12 @@
             [" ", " ", " ", "b", "b", "b", "b", "b", "b", "b", "b", "b"]
           ],
           "additionalObjects": [
+            "Shifting Priorities Map",
             "POI Token",
             "POI Token",
             "POI Token",
             "POI Token",
-            "POI Token",
-            "Shifting Priorities Map"
-          ]
-        },
-        {
-          "name": "Outflank",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/13495770785016686863/572E6718AF1D92854622E20A2C7BBF8E8EAF4793/",
-          "type": "vertical",
-          "zone": [
-            [" ", " ", " ", "r", "r", "r", "r", "r", "r", " ", " ", "r"],
-            [" ", " ", " ", "rh", "rh", "rh", "rh", "rh", "rh", " ", " ", "r"],
-            ["b", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", "r"],
-            ["b", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", "r"],
-            ["b", " ", " ", "bh", "bh", "bh", "bh", "bh", "bh", " ", " ", " "],
-            ["b", " ", " ", "b", "b", "b", "b", "b", "b", " ", " ", " "]
-          ],
-          "additionalObjects": [
-            "POI Token",
-            "POI Token",
-            "POI Token",
-            "POI Token",
-            "Outflank Map"
+            "POI Token"
           ]
         }
       ],
@@ -5099,26 +4486,6 @@
           "image": "https://steamusercontent-a.akamaihd.net/ugc/16276132125547808705/8A61415CDD0F2E20417F6D8371858B206FA0A775/",
           "type": "vertical",
           "additionalObjects": ["Objective Token"]
-        },
-        {
-          "name": "Black Ops",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/17788491822893443475/FCEB325A1C045662381E47E751482700521D2219/",
-          "type": "vertical"
-        },
-        {
-          "name": "Command Override",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/12943860816298787957/AC216DBF0F8880EC568FCAA34B5AC347187723A8/",
-          "type": "vertical"
-        },
-        {
-          "name": "Coordinated Strike",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/16289701377728989133/61345ED59F6A20461A2BD1526AC38D12E2E4BBB3/",
-          "type": "vertical"
-        },
-        {
-          "name": "No Time to Lose",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/11496058962921126665/041D2E72354726A4E39C6A2CCA2DA6C0E66946B2/",
-          "type": "vertical"
         }
       ]
     },
@@ -5385,107 +4752,105 @@
     "skirmish": {
       "objective": [
         {
-          "name": "Surface Scan",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/16343945853969639984/24ABD9DF34B74E343BD4F79D9461385D76C0CD88/",
+          "name": "Breach",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279492/85477A894623DDA23BC182995DAF396671A0C007/",
+          "type": "vertical"
+        },
+        {
+          "name": "Control",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279456/10F29ECE1579A06D7DC564A6480F2BE27CC6EF04/",
+          "type": "vertical",
+          "additionalObjects": ["Objective Token"]
+        },
+        {
+          "name": "Elimination",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279416/6160501F308751CB9266FF991FF62E1409058C4B/",
+          "type": "vertical"
+        },
+        {
+          "name": "Pivotal Positions",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279382/6E006F31C9D5200AAA94392D94C2AE78EE4D73C7/",
           "type": "vertical",
           "additionalObjects": [
-            "Objective Token",
             "Objective Token",
             "Objective Token",
             "Objective Token"
           ]
-        },
-        {
-          "name": "Recon Mission",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/18385343105541227063/7F990BB73C8675734EB02873157F392EA265DC20/",
-          "type": "vertical",
-          "additionalObjects": ["Objective Token", "Objective Token"]
-        },
-        {
-          "name": "Bring Them to Heel",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/16790576095549234351/278EA3877E97AD155ADA4602D42DF023B7CEB78B/",
-          "type": "vertical"
         }
       ],
       "deployment": [
         {
-          "name": "Close the Pocket",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/17314598212129638590/62EB33594611850FEBF0567D57ABA8CFB8077091/",
+          "name": "Battle Lines",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279345/8A96884057E13BF488E89177C2B9CCB0ADDDFFE0/",
           "type": "vertical",
           "zone": [
-            [" ", " ", " ", "r", "rs", " ", " ", "rss", "r", " ", " ", " "],
-            [" ", " ", " ", "rh", "rc", " ", " ", "rcc", "rh", " ", " ", " "],
+            [" ", " ", " ", "r", "r", "r", "r", "r", "r", " ", " ", " "],
             [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
             [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", "bh", "bcc", " ", " ", "bc", "bh", " ", " ", " "],
-            [" ", " ", " ", "b", "bss", " ", " ", "bs", "b", " ", " ", " "]
-          ],
-          "additionalObjects": [
-            "POI Token",
-            "POI Token",
-            "POI Token",
-            "Close the Pocket Map (Recon)"
+            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", "b", "b", "b", "b", "b", "b", " ", " ", " "]
           ]
         },
         {
-          "name": "Bunker Assault",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/16995954044322736468/0D0086DE04A57350DF77F62FDEC94F5148B7C4D5/",
+          "name": "Faceoff",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279307/F41700690107CC7398BD5B95CDED30B041538517/",
+          "type": "vertical",
+          "zone": []
+        },
+        {
+          "name": "Flanking Positions",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279273/0D6B1CF6762E532AA4C0D039C2CC96F0E25A419F/",
           "type": "vertical",
           "zone": [
-            [" ", " ", " ", " ", "r", "r", "r", "r", " ", " ", " ", " "],
-            [" ", " ", " ", " ", "rh", "rh", "rh", "rh", " ", " ", " ", " "],
-            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", " ", "bh", "bh", "bh", "bh", " ", " ", " ", " "],
-            [" ", " ", " ", " ", "b", "b", "b", "b", " ", " ", " ", " "]
-          ],
-          "additionalObjects": [
-            "POI Token",
-            "POI Token",
-            "POI Token",
-            "POI Token",
-            "Bunker Assault Map (Recon)"
+            [" ", " ", " ", "r", "r", "r", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", "r", " ", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", "r", " ", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", " ", " ", " ", " ", " ", "b", " ", " ", " "],
+            [" ", " ", " ", " ", " ", " ", " ", " ", "b", " ", " ", " "],
+            [" ", " ", " ", " ", " ", " ", "b", "b", "b", " ", " ", " "]
           ]
         },
         {
-          "name": "Intercept Signals",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/13661793580985225615/BB706B264CE5C71456271DE54E765EC27EA6F786/",
+          "name": "Meeting Engagement",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279232/4F4C1C54E5DCE9FD1E9C46BB75379AEF60E2DAFC/",
           "type": "vertical",
           "zone": [
-            [" ", " ", " ", " ", "r", "r", "r", "r", " ", " ", " ", " "],
-            [" ", " ", " ", " ", "rh", "rh", "rh", "rh", " ", " ", " ", " "],
+            [" ", " ", " ", "r", "r", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", "r", "r", " ", " ", " ", " ", " ", " ", " "],
             [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
             [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
-            [" ", " ", " ", " ", "bh", "bh", "bh", "bh", " ", " ", " ", " "],
-            [" ", " ", " ", " ", "b", "b", "b", "b", " ", " ", " ", " "]
-          ],
-          "additionalObjects": [
-            "POI Token",
-            "POI Token",
-            "POI Token",
-            "POI Token",
-            "Intercept Signals Map (Recon)"
+            [" ", " ", " ", " ", " ", " ", " ", "b", "b", " ", " ", " "],
+            [" ", " ", " ", " ", " ", " ", " ", "b", "b", " ", " ", " "]
           ]
         }
       ],
       "condition": [
         {
-          "name": "Advanced Intel",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/13272907091260444770/243391B61F192F53AA7CF0360D3F846C7A7A0A97/",
-          "type": "vertical",
-          "additionalObjects": ["Condition Token"]
+          "name": "War Weary",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279193/052C3637BE4F31FAA691235E186CC73B1CE928F7/",
+          "type": "vertical"
         },
         {
-          "name": "Fortified Position",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/16927846453234643948/97D5A7F0E4C9D3DAB14C3754AC3A484C15CE3567/",
+          "name": "Improvised Defenses",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279155/3F72099B06947F23231D8B2228D25C63E01FED92/",
           "type": "vertical",
-          "additionalObjects": ["Barricade", "Barricade", "Barricade"]
+          "additionalObjects": [
+            "Barricade",
+            "Barricade",
+            "Barricade",
+            "Barricade"
+          ]
         },
         {
-          "name": "Cunning Deployment",
-          "image": "https://steamusercontent-a.akamaihd.net/ugc/14925552919945327142/06659E9120D6246C6048165ECDE9F5F5AEA7A5EB/",
-          "type": "vertical",
-          "additionalObjects": ["Dodge Token", "Dodge Token", "Dodge Token"]
+          "name": "Dawn",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279122/1952ADAEF00EAAF039C3D0C160AABF3BD4F7B0E1/",
+          "type": "vertical"
+        },
+        {
+          "name": "Clear Conditions",
+          "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279082/F2116A3FBAB46DAD85EE43AB1CBF9497C567B2A8/",
+          "type": "vertical"
         }
       ]
     },
@@ -5806,55 +5171,31 @@
     "Bunker Assault Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12304553798171400164/69AB4EB2BA8A39D91996852580DCA1AB783913C4/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051483/82F1D1EAA55C5794FD0301E5FADB5EEA3DAEFE49/"
       }
     },
     "Close the Pocket Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/14769093936620373412/BC975CBADAEBD9AA231D83443BE9EDB59FF4308A/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051694/8B05A05A5B24115F84B0A13F6FD392BB5C00E527/"
       }
     },
-    "Intercept Signals Map": {
+    "Intercept Signals": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12020228019721678387/E635199A7837BC89D679A0D848FB4EA7D7677239/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052240/E4DFCE250EAB2459C05A7C73ED2C47B78DB5D467/"
       }
     },
     "Recover the Research Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/15862931608322641380/4C8D35B94855B94A233EBF9D01FB0D1A0EEE3B32/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052886/30E5BFA96EBC5AFA4197AE40882EC3B576420F51/"
       }
     },
     "Shifting Priorities Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12429316638634710380/005746FFEA77696118B237B650C7628F9089B946/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
-      }
-    },
-    "Outflank Map": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15283876349976838373/93B3D53B8AB0DCF7FE15F606E81FD962A738B455/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
-      }
-    },
-    "Bunker Assault Map (Recon)": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/15532220751502518416/FA34BE3822D18F2C6D04F8987569B0D4F6A1F9D3/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
-      }
-    },
-    "Close the Pocket Map (Recon)": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/17088281433024932061/E9983676D51E1EE76B7152BD13CF83C794F02C81/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
-      }
-    },
-    "Intercept Signals Map (Recon)": {
-      "card": {
-        "image": "https://steamusercontent-a.akamaihd.net/ugc/13979927353592007130/EA574041CFDFF4712CEC9A8E18F5A8DDE7A18216/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501052974/0D4D7ECABE727D484B8ECDF44DBA664BBF7E609D/"
       }
     }
   }

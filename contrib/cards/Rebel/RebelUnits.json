@@ -192,19 +192,52 @@
       "content": "contrib/cards/ShadowCollective/PykeSyndicateCapoUnit.json"
     },
     {
+      "name": "Rebel Officer",
+      "title": "Fighting for Freedom",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/9534714757713439013/F1243488529E029C17CAC7745960E27861F6F13E/",
+      "size": "small",
+      "type": "Trooper",
+      "points": 55,
+      "speed": 2,
+      "upgrades": {
+        "Doctrine": 1,
+        "Command": 1,
+        "Training": 2,
+        "Gear": 1,
+        "Armament": 1,
+        "Grenades": 1
+      },
+      "minis": [
+        {
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/14532786737705927841/CFA38D52A0507FE16F18C09807CFFE2796E3C3DF/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/9545206998925681034/383407768DA711E924DC4459C3774A5A385D0F0A/"
+        }
+      ],
+      "commands": [
+        {
+          "name": "Diversionary Tactics",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/18133143929006199770/1914187C13F4DEC189139B79B77BD0AC5AFE4A74/",
+          "pip": 3
+        }
+      ]
+    },
+    {
       "name": "Wicket",
       "title": "Hero of Bright Tree",
       "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081133208061/787C79B49789528F2EF54F1668B0BF28EBD6635C/",
       "size": "small",
       "type": "Trooper",
-      "points": 70,
+      "points": 75,
       "speed": 2,
       "upgrades": {
-        "Training": 3
+        "Command": 1,
+        "Training": 1,
+        "Gear": 1
       },
       "minis": [
         {
-          "bundle": "http://cloud-3.steamusercontent.com/ugc/2023850162090106066/B6E661CAB8049A1B1CE975B53BB57B337E2C5DEE/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/951848302305475778/55B558E631655D0430BAF76E71C93899AAECA7A1/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/951848302305475871/06400240648CC39F933BE504C74DA9BEF4D006C4/"
         }
       ],
       "commands": [
@@ -231,15 +264,17 @@
       "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081133207972/4E2F553BC1FBA06D841591067D3D5E2AED2BF4E5/",
       "size": "small",
       "type": "Trooper",
-      "points": 45,
+      "points": 90,
       "speed": 2,
       "upgrades": {
-        "Command": 1,
-        "Training": 3
+        "Training": 2,
+        "Gear": 1,
+        "Armament": 1
       },
       "minis": [
         {
-          "bundle": "http://cloud-3.steamusercontent.com/ugc/2008089545867129309/3D6C219F243BDE984C42BB3444B01DB09B522CBB/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/773996263556990389/C38E9CAD7E5BA5496E1A211CA799E9ACBAC51D00/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/770611701143191344/5CAA4F0CE9A3FBE89A81560221ADCDDB5A801CC3/"
         }
       ]
     },
@@ -261,6 +296,39 @@
     }
   ],
   "Operative": [
+    {
+      "content": "contrib/cards/ShadowCollective/HondoUnit.json"
+    },
+    {
+      "name": "Rebel Agent",
+      "title": "Defender of Democracy",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/17901394001843296498/2C1A012DA041E493D5A44E556560CAD26EC271CA/",
+      "size": "small",
+      "type": "Trooper",
+      "points": 50,
+      "speed": 2,
+      "upgrades": {
+        "Doctrine": 1,
+        "Command": 1,
+        "Training": 2,
+        "Gear": 1,
+        "Armament": 1,
+        "Grenades": 1
+      },
+      "minis": [
+        {
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/11575970146791239281/402B385AB044BE03EE4B9E4FDC5DB87F3023B1A6/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/11658925934967461702/567DB4603169F3DC7DD187903B6E4A0D18902E5F/"
+        }
+      ],
+      "commands": [
+        {
+          "name": "Battlefield Reconnaissance",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/17610023314497310693/7E034D283AA09AB843E8A205F44634451A91BFDB/",
+          "pip": 1
+        }
+      ]
+    },
     {
       "name": "Jyn Erso",
       "title": "Stardust",
@@ -338,7 +406,7 @@
     {
       "name": "Chewbacca",
       "title": "Walking Carpet",
-      "image": "http://cloud-3.steamusercontent.com/ugc/1683770969789163592/3EE305AD57A0D00B7B413FF0F6F418D5FA544968/",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081133196213/4E3D98C13521875895DBA499660FAD9C03401E19/",
       "size": "small",
       "type": "Wookiee Trooper",
       "points": 90,
@@ -374,7 +442,7 @@
     {
       "name": "Sabine Wren",
       "title": "Explosive Artist",
-      "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788604048/BE5C0706F024117D9DBCF3468D89A4DEA1C10BFE/",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081133198454/7B0CE6DEA21E5969ACFD78775BB716526A2F5E19/",
       "size": "small",
       "type": "Trooper",
       "points": 125,
@@ -415,7 +483,7 @@
     {
       "name": "Luke Skywalker",
       "title": "Jedi Knight",
-      "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788604076/98BCE6298F7E4D5086CB79D9592FC0151E7A447A/",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081133196988/42DDFCCED093080587DEC624C04303D85BF5C365/",
       "size": "small",
       "type": "Trooper",
       "points": 195,
@@ -502,7 +570,7 @@
     {
       "name": "K-2SO",
       "title": "Sardonic Security Droid",
-      "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788629460/11D489A9283627C5CE93F29C04BEB61BA3F166D5/",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081133196811/24F4099145C9D7E19B87DF774BF443DA448248D1/",
       "size": "small",
       "type": "Droid Trooper",
       "points": 70,
@@ -528,7 +596,7 @@
     {
       "name": "Boba Fett",
       "title": "Daimyo of Mos Espa",
-      "image": "http://cloud-3.steamusercontent.com/ugc/1904476875947527186/1416818938F90DBF7DCBFFA42860CB72E287EB71/",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/16579174465147196746/9D5131128D833819B159E467C76A731BA5E896EF/",
       "size": "small",
       "type": "Trooper",
       "points": 120,
@@ -584,7 +652,7 @@
     {
       "name": "Ahsoka Tano",
       "title": "Fulcrum",
-      "image": "http://cloud-3.steamusercontent.com/ugc/2022720184107019845/E7B0CE153BABCB9FF1DB91EF0B3F216B15253A29/",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081133195586/1A1B3A8C98F61A54D40DD8920D859B78C1B08F2E/",
       "size": "small",
       "type": "Trooper",
       "points": 165,
@@ -624,12 +692,13 @@
     {
       "name": "The Bad Batch",
       "title": "Clone Force 99",
-      "image": "http://cloud-3.steamusercontent.com/ugc/2475370743175005395/E630FCD5B4B4D783D7E1E27AEDE4A78B27E9BE14/",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/12250968622432378580/92A3A64FE3A5BA176A4DF5D2BB6F66B8D47B840B/",
       "size": "small",
       "type": "Trooper",
       "points": 140,
       "speed": 2,
       "upgrades": {
+        "Counterpart": 1,
         "Heavy Weapon": 4
       },
       "minis": [
@@ -1059,28 +1128,28 @@
       },
       "minis": [
         {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508033889679621098/DAC14B407CC47E5C2B4A3AFCF87A704907C3940A/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508033889679614622/B379336947ACE47BF9FBEECA30A93F6ABCD3842B/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508034524426693110/298DB95F2976955B8F6F573092DDD58EE64D8929/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508034524426689107/11D80202A0B20334EF381056AA0D5E320E316AEB/"
         },
         {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680567004/0BB417962A0ABE0E6381B767782F6BBA6AE62CE8/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680567174/19D7BF881EDCD2F7FB8718CD79E678CFF56495FF/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508034524426691083/3A4A92976C0E183084670C949342C3605851B7B2/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508034524426687911/D8960459FB54665F49506D70747200150A005AC1/"
         },
         {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680568477/ECEA13C55B0C37AED1B8066D2158BE7F9A84FB32/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680568730/452F1CC25775CDE1D107BC6C457E22740182F594/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508034524426692020/75025C2A870B96B13C0BF07C0DB21708E48F6230/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508034524426688532/77AEC9D8964D379DE204131C35E462725F0F5658/"
         },
         {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680572703/37BA3BE34A5FEBE80DB7A4EB6FB3BBFD87CCE22D/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680573104/5EFBE526BA06E0026124917566EC020AACDBB9EB/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16421205180316201/22AC4786A01D7059C34D386642C5E715070419C3/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/16421205180287492/3ADE56B8AFAB4EFC41F7B2B6A0EAA374013D3587/"
         },
         {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680574338/C9C5456700D989BA3389499336AC8C5DA7586755/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680574595/595808E8FBD39F09F2754FE48F97A4A493BD3A37/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16421205180314068/AFD77ADB3C8BDE9AB9822B8E9EE18A0FF1B4C511/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/16421205180314093/AD845D549461EAAB7AD5A874AF653D3ACAF004A4/"
         },
         {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680574338/C9C5456700D989BA3389499336AC8C5DA7586755/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/2508033889680574595/595808E8FBD39F09F2754FE48F97A4A493BD3A37/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16421205180313792/D8ABDF90C18ACAF0610604889C91BCA5ED828978/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/16421205180302457/F03D8E6C9A5B1B5CBC243E606B28B506815A0A11/"
         }
       ]
     }
@@ -1189,7 +1258,7 @@
         "Comms": 1
       },
       "silhouette": {
-        "height": 1.900,
+        "height": 1.9,
         "offset": 0
       },
       "minis": [
@@ -1214,8 +1283,8 @@
         "Comms": 1
       },
       "silhouette": {
-        "height": 3.256,
-        "offset": 0.335
+        "height": 3.591,
+        "offset": 0
       },
       "minis": [
         {
