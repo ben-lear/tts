@@ -1730,8 +1730,8 @@
         "name": "MPL-57 Barrage Trooper",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/2495640747384857286/60AC7BEDA003F95429F6312717EBAB9488C51852/",
         "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540670338/28625FDF1F56EF08F0DB236C4ECFF67A54083B2B/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780862750426/2563904D7561144EE85EBCD3E07D68F48D8DD034/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/785234540540671382/63267B140C2A619525B99FD943DF2421F75B9130/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/785234540540671503/D8BCEE815B07EA7074085CF1F43AF8041DEC8981/"
         },
         "points": 22,
         "restrictions": {
