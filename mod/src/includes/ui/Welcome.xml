@@ -47,7 +47,11 @@
           (Since last <i>Beta</i>)
           <!--(Since last <i>Stable</i>)-->
           - Add: WLO-5 Speeder Truck
-          - Add: New Objective Card Backing test
+          - Add: New Objective Card Backing
+          - Add: New Objectives
+          - Add: TSMEU-6 Wheel Bikes
+          - Fix: Deploy the Garrison
+          - Fix: Fleet Trooper MPL model
         </Text>
       </VerticalLayout>
     </VerticalScrollView>
