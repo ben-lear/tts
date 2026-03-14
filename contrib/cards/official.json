@@ -3994,6 +3994,16 @@
         }
       },
       {
+        "name": "IG-100 MagnaGuard Pilot",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/13932498646258125528/C8DBD74A2D1CC4D0A5722DD77352314CB70ED9C3/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["TSMEU-6 Wheel Bikes"]
+          }
+        }
+      },
+      {
         "name": "OOM-Series Droid Pilot",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081140015474/EBD6D1C9D3C7DBCB66C1C5976D7F6B2A7303655D/",
         "points": 7,
@@ -4795,6 +4805,36 @@
             "Objective Token",
             "Objective Token"
           ]
+        },
+        {
+          "name": "Align the Relay",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/14491977904273934664/881FE4169E463AB25699171975636C18E2957251/",
+          "type": "vertical",
+          "additionalObjects": [
+            "Objective Token",
+            "Objective Token",
+            "Objective Token",
+            "Objective Token",
+            "Objective Token"
+          ]
+        },
+        {
+          "name": "Failed Negotiation",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/15810516017228580607/C88C46C8188C2175C572E511FCBF7DA0C3A3C38D/",
+          "type": "vertical",
+          "additionalObjects": ["Objective Token", "Objective Token"]
+        },
+        {
+          "name": "Retrieve the Data",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/12099398395755541092/779E148B5ECFEE495D3C1652FB31A10482C694B7/",
+          "type": "vertical",
+          "additionalObjects": [
+            "Objective Token",
+            "Objective Token",
+            "Objective Token",
+            "Objective Token",
+            "Objective Token"
+          ]
         }
       ],
       "deployment": [
@@ -5095,6 +5135,120 @@
             "POI Token",
             "Outflank Map"
           ]
+        },
+        {
+          "name": "Cauldron",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/15627037991188349167/2271D8A45AA921E7FCB81C124DC41F2C46D247ED/",
+          "type": "vertical",
+          "zone": [
+            ["r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r"],
+            [
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh"
+            ],
+            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+            [
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh"
+            ],
+            ["b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b"]
+          ],
+          "additionalObjects": [
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "Cauldron Map"
+          ]
+        },
+        {
+          "name": "Contact, Contact!",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/12700346236472029468/7D62CD68C323798CA715971917CF33F42E3B118B/",
+          "type": "vertical",
+          "zone": [
+            [" ", " ", " ", " ", " ", " ", "r", "r", "r", "r", "r", "r"],
+            [" ", " ", " ", " ", " ", " ", "rh", "rh", "rh", "r", "r", "rh"],
+            [" ", "b", "b", " ", " ", " ", " ", " ", " ", "r", "r", " "],
+            [" ", "b", "b", " ", " ", " ", " ", " ", " ", "r", "r", " "],
+            ["bh", "b", "b", "bh", "bh", "bh", " ", " ", " ", " ", " ", " "],
+            ["b", "b", "b", "b", "b", "b", " ", " ", " ", " ", " ", " "]
+          ],
+          "additionalObjects": [
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "Contact, Contact! Map"
+          ]
+        },
+        {
+          "name": "Payload",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/16906983444643756097/831C0FCBF977904A6E0D99980AA93894BCC64917/",
+          "type": "vertical",
+          "zone": [
+            ["r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r"],
+            [
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh",
+              "rh"
+            ],
+            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+            [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+            [
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh",
+              "bh"
+            ],
+            ["b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b"]
+          ],
+          "additionalObjects": [
+            "POI Token",
+            "POI Token",
+            "POI Token",
+            "Payload Map"
+          ]
         }
       ],
       "condition": [
@@ -5152,6 +5306,26 @@
         {
           "name": "No Time to Lose",
           "image": "https://steamusercontent-a.akamaihd.net/ugc/11496058962921126665/041D2E72354726A4E39C6A2CCA2DA6C0E66946B2/",
+          "type": "vertical"
+        },
+        {
+          "name": "Armored Assault",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/10425618194745828599/81AA48C3F07BB313B7A3CA7E76F88F0CC2167E9F/",
+          "type": "vertical"
+        },
+        {
+          "name": "Extreme Discipline",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/9721205986412257000/CC9C2007345D883D9D1287E44D74CAE089114D29/",
+          "type": "vertical"
+        },
+        {
+          "name": "Rapid Deployment",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/14859786331088523291/F2ECDE4D7BB7F3260A049D627C9801BB32093B0B/",
+          "type": "vertical"
+        },
+        {
+          "name": "Scrambled Orders",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/12845531429756028876/8BAA1BF01969CACC268BDC0847D316A2E96DFD48/",
           "type": "vertical"
         }
       ]
@@ -5834,61 +6008,79 @@
     "Breakthrough Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/16613435332891317382/334404D722726ECE56866DBBF444836E8AC2F3A3/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/16613435332891317382/334404D722726ECE56866DBBF444836E8AC2F3A3/"
       }
     },
     "Bunker Assault Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12304553798171400164/69AB4EB2BA8A39D91996852580DCA1AB783913C4/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/12304553798171400164/69AB4EB2BA8A39D91996852580DCA1AB783913C4/"
       }
     },
     "Close the Pocket Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/14769093936620373412/BC975CBADAEBD9AA231D83443BE9EDB59FF4308A/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/14769093936620373412/BC975CBADAEBD9AA231D83443BE9EDB59FF4308A/"
       }
     },
     "Intercept Signals Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12020228019721678387/E635199A7837BC89D679A0D848FB4EA7D7677239/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/12020228019721678387/E635199A7837BC89D679A0D848FB4EA7D7677239/"
       }
     },
     "Recover the Research Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/15862931608322641380/4C8D35B94855B94A233EBF9D01FB0D1A0EEE3B32/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/15862931608322641380/4C8D35B94855B94A233EBF9D01FB0D1A0EEE3B32/"
       }
     },
     "Shifting Priorities Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12429316638634710380/005746FFEA77696118B237B650C7628F9089B946/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/12429316638634710380/005746FFEA77696118B237B650C7628F9089B946/"
       }
     },
     "Outflank Map": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/15283876349976838373/93B3D53B8AB0DCF7FE15F606E81FD962A738B455/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/15283876349976838373/93B3D53B8AB0DCF7FE15F606E81FD962A738B455/"
+      }
+    },
+    "Cauldron Map": {
+      "card": {
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/16251599508539301812/3439E5658197D7006038C5BFDB48CE8F7DFC6DAD/",
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/16251599508539301812/3439E5658197D7006038C5BFDB48CE8F7DFC6DAD/"
+      }
+    },
+    "Contact, Contact! Map": {
+      "card": {
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/15184660976021577609/475B87420012E83B5AE2865DC1E4620E93ADDECE/",
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/15184660976021577609/475B87420012E83B5AE2865DC1E4620E93ADDECE/"
+      }
+    },
+    "Payload Map": {
+      "card": {
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/12399717920746649417/C9AC372588552230C9F0C00A5ADB0D468672E726/",
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/12399717920746649417/C9AC372588552230C9F0C00A5ADB0D468672E726/"
       }
     },
     "Bunker Assault Map (Recon)": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/15532220751502518416/FA34BE3822D18F2C6D04F8987569B0D4F6A1F9D3/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/15532220751502518416/FA34BE3822D18F2C6D04F8987569B0D4F6A1F9D3/"
       }
     },
     "Close the Pocket Map (Recon)": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/17088281433024932061/E9983676D51E1EE76B7152BD13CF83C794F02C81/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/17088281433024932061/E9983676D51E1EE76B7152BD13CF83C794F02C81/"
       }
     },
     "Intercept Signals Map (Recon)": {
       "card": {
         "image": "https://steamusercontent-a.akamaihd.net/ugc/13979927353592007130/EA574041CFDFF4712CEC9A8E18F5A8DDE7A18216/",
-        "back": "https://steamusercontent-a.akamaihd.net/ugc/2482129948501051192/5A19D255E47E80FF3CCE0EBFA095CB8677C4188D/"
+        "back": "https://steamusercontent-a.akamaihd.net/ugc/13979927353592007130/EA574041CFDFF4712CEC9A8E18F5A8DDE7A18216/"
       }
     }
   }

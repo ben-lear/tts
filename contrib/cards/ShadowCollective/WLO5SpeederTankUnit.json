@@ -17,7 +17,8 @@
   "minis": [
     {
       "mesh": "https://steamusercontent-a.akamaihd.net/ugc/18162736975687770648/643CAEA98913694A90A7BC6B9ED78668C9F46386/",
-      "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14670109106110705253/18525D8840EEFDB2DC159B4988BD6A734BC2418E/"
+      "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/14670109106110705253/18525D8840EEFDB2DC159B4988BD6A734BC2418E/",
+      "collider": "https://steamusercontent-a.akamaihd.net/ugc/10402477424751392481/9585E316040CEA861ABF6A551F35C2473BEC0C52/"
     }
   ]
 }
