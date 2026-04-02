@@ -143,7 +143,7 @@
       ],
       "commands": [
         {
-          "name": "Architects of Thier Own Destruction",
+          "name": "Architects of Their Own Destruction",
           "image": "https://steamusercontent-a.akamaihd.net/ugc/12184173414394445819/F6446EC3BC802836DC5A6E7C19A5BD77F30B7278/",
           "pip": 1
         },
@@ -172,8 +172,8 @@
       },
       "minis": [
         {
-          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/11491712071340896017/8364014C41D2C85817AA0641F36F066504E46226/",
-          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/10067944761455784205/EA5A44F1A042F71C0D397173A893E5316CA42463/"
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16733402417968018171/CDE38AF3BCF6C2601F389A7AEB03B7399E440D9B/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/16733402417968018171/CDE38AF3BCF6C2601F389A7AEB03B7399E440D9B/"
         }
       ],
       "commands": [
