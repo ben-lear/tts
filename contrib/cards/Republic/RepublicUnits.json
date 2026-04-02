@@ -523,6 +523,9 @@
     },
     {
       "content": "contrib/cards/ShadowCollective/PykeSyndicateFootSoldiersUnit.json"
+    },
+    {
+      "content": "contrib/cards/ShadowCollective/WeequayPiratesUnit.json"
     }
   ],
   "Special Forces": [

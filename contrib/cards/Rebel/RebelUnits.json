@@ -910,6 +910,9 @@
       "content": "contrib/cards/ShadowCollective/PykeSyndicateFootSoldiersUnit.json"
     },
     {
+      "content": "contrib/cards/ShadowCollective/WeequayPiratesUnit.json"
+    },
+    {
       "name": "Ewok Skirmishers",
       "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081133206135/9932914CEED1068F058672A166F0F7A67E5C68D5/",
       "size": "small",
