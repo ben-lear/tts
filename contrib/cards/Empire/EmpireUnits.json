@@ -123,6 +123,105 @@
       ]
     },
     {
+      "name": "Grand Admiral Thrawn",
+      "title": "Imperial High Command",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/9436299354256705736/3DCE14B424BBB4F76939DA580884B08F5597866A/",
+      "size": "small",
+      "type": "Trooper",
+      "points": 110,
+      "speed": 2,
+      "upgrades": {
+        "Command": 3,
+        "Training": 1,
+        "Gear": 1
+      },
+      "minis": [
+        {
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/16882569187315189060/9CC8F02A05022AC6AE93534E6C95F72197C296C3/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/17874999880093691776/296F0B6569A22FA39F40E4A61D207900C1CCE512/"
+        }
+      ],
+      "commands": [
+        {
+          "name": "Architects of Thier Own Destruction",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/12184173414394445819/F6446EC3BC802836DC5A6E7C19A5BD77F30B7278/",
+          "pip": 1
+        },
+        {
+          "name": "We Must Wait and Watch",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/13718292354738588716/0DB30394AA3AA3D13D9FA23F2B7DC17CF34116F0/",
+          "pip": 2
+        },
+        {
+          "name": "I Want You to Know Failure",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/15617948462890110491/4C39E34E102D2071D0EEAA0AC7F4F8953E108265/",
+          "pip": 3
+        }
+      ]
+    },
+    {
+      "name": "Grand Moff Tarkin",
+      "title": "Imperial High Command",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/12830085949468452139/30B1D3C7B93F18C834C172A25D605C01DAFD9A31/",
+      "size": "small",
+      "type": "Trooper",
+      "points": 95,
+      "speed": 2,
+      "upgrades": {
+        "Command": 3
+      },
+      "minis": [
+        {
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/11491712071340896017/8364014C41D2C85817AA0641F36F066504E46226/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/10067944761455784205/EA5A44F1A042F71C0D397173A893E5316CA42463/"
+        }
+      ],
+      "commands": [
+        {
+          "name": "Moment of Triumph",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/13309803368671609766/C5893E5966D2FE573DD589E9B5E94EBD01E20707/",
+          "pip": 1
+        },
+        {
+          "name": "Fear Will Keep Them in Line",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/10284086872796146114/8FC131D739DFBCA729DC1B5F31DD440B65EEB4C6/",
+          "pip": 3
+        }
+      ]
+    },
+    {
+      "name": "General Tagge",
+      "title": "Imperial High Command",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/18037706666284034311/7683A6889CF63CFFAC109DF58DDD103AA7ADFAF8/",
+      "size": "small",
+      "type": "Trooper",
+      "points": 85,
+      "speed": 2,
+      "upgrades": {
+        "Command": 3,
+        "Training": 1,
+        "Gear": 1
+      },
+      "minis": [
+        {
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/11491712071340896017/8364014C41D2C85817AA0641F36F066504E46226/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/10067944761455784205/EA5A44F1A042F71C0D397173A893E5316CA42463/"
+        }
+      ],
+      "commands": [
+        {
+          "name": "I Have Graphs AND the Command",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/16492485163580443866/035B19E6BD2FC184EDE9E2782054E52EABFE973C/",
+          "pip": 1
+        },
+        {
+          "name": "Canny Adversary",
+          "image": "https://steamusercontent-a.akamaihd.net/ugc/15603846312607201943/6B2F2EC17A80B2F190532E33057F16931B8D4F19/",
+          "pip": 3
+        }
+      ]
+    },
+    {
       "name": "Iden Versio",
       "title": "Inferno Squad Leader",
       "image": "https://steamusercontent-a.akamaihd.net/ugc/10804385135447992/97B7DD726FEB2C4811A53FE5B68FB430713FB9FD/",

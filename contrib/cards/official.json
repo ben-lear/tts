@@ -4264,6 +4264,26 @@
     ],
     "Training": [
       {
+        "name": "Security Detail",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/12222061891853555901/CD168A0212E4D0E6D145E0802870606F91B35F68/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "unit": ["Imperial Death Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Logistical Prowess",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/11474714211228603788/9066E07B5E314B6AC9B8D46367F9A980AD3257A9/",
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["General Tagge"]
+          }
+        }
+      },
+      {
         "name": "Jedi Training, Force Adept",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/12390960585643083301/04DD725AE236156E74D8235599206979F3670D57/",
         "points": 5,
@@ -4543,6 +4563,11 @@
       {
         "name": "Pinned Down",
         "image": "https://steamusercontent-a.akamaihd.net/ugc/13986899663843994273/C86535A24E53CB437CF5E6DFB02A6FCF21E1EC63/",
+        "pip": 2
+      },
+      {
+        "name": "The Empire Does Not Tolerate Failure",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/13148519556397561204/A85B3068F61D78D4E11CF222AA32EF0BEA1B997B/",
         "pip": 2
       },
       {
