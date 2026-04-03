@@ -539,6 +539,9 @@
       "content": "contrib/cards/ShadowCollective/BlackSunEnforcersUnit.json"
     },
     {
+      "content": "contrib/cards/ShadowCollective/WeequayPiratesUnit.json"
+    },
+    {
       "name": "Geonosian Warriors",
       "title": "Soldiers of the Hive",
       "image": "https://steamusercontent-a.akamaihd.net/ugc/59218081131432412/D396E8DD6EEDD4AD239A43CCE45BBC28B720DD77/",
@@ -708,6 +711,34 @@
         {
           "bundle": "http://cloud-3.steamusercontent.com/ugc/1621849308236386470/4D5227051DEEED77303985CE6D34CDBFB27FD472/",
           "secondary": "http://cloud-3.steamusercontent.com/ugc/1621849538641208262/A0E48F7D9C94617C81BAD4D649717BAC7A8B9B64/"
+        }
+      ]
+    },
+    {
+      "name": "TSMEU-6 Wheel Bikes",
+      "image": "https://steamusercontent-a.akamaihd.net/ugc/15288499232659659250/25E204B8F8CE71424524AEC8158D526F0FCA5347/",
+      "size": "large",
+      "type": "Ground Vehicle",
+      "points": 90,
+      "speed": 2,
+      "upgrades": {
+        "Pilot": 1,
+        "Training": 1,
+        "Comms": 1,
+        "Gear": 1
+      },
+      "silhouette": {
+        "height": 2.91,
+        "offset": 0.0
+      },
+      "minis": [
+        {
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/10144700341503599438/88D1E2DC8FFF46535836C0B531A2565289E67BB6/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/17563221817980340918/4801D5FAE716911B413B5F0C790F000B63E0104C/"
+        },
+        {
+          "mesh": "https://steamusercontent-a.akamaihd.net/ugc/15728085712538195211/C8E5D2D006905324C7541C35765C4FF43D3D06B6/",
+          "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/17607413312287217729/FD59E769888166ADDE570190F4B5866F31E59409/"
         }
       ]
     }
@@ -910,6 +941,9 @@
           "diffuse": "https://steamusercontent-a.akamaihd.net/ugc/16428277771241663/4DEF50D36EB484BB1BBD9FD6092708DEF89A28EA/"
         }
       ]
+    },
+    {
+      "content": "contrib/cards/ShadowCollective/WLO5SpeederTankUnit.json"
     }
   ]
 }
